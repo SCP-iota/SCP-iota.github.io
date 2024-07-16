@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% if page.short_name == "satire" %}
+<div class="alert alert-warning">
+    Heads up! This is satire - don't take it seriously.
+</div>
+{% endif %}
+
+<h1>Posts in {{page.name}} Category</h1>
+
+<ul>
+    {% assign filtered_posts = site.posts | where: 'category', page.short_name %}
+    {% for post in filtered_posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

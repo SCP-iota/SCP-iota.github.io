@@ -1,0 +1,15 @@
+---
+layout: post
+---
+
+{% if page.category == "satire" %}
+ <div class="alert alert-warning">
+      Heads up! This is satire - don't take it seriously.
+ </div>
+{% endif %}
+
+{% assign categories_filtered = site.blog_categories | where: "short_name", page.category %}
+
+<p>This post is from the <a href="{{ categories_filtered[0].url }}">{{ categories_filtered[0].name }}</a> category.</p>
+
+{{ content }}
