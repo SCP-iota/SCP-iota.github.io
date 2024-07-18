@@ -4,8 +4,6 @@ category: software
 title: When Language Constructs Are Really Just First Class Commands
 ---
 
-# When Language Constructs Are Really Just First Class Commands
-
 In just about every programming language, there will be times you'll need to evaluate a boolean expression.
 Whether it's a condition to an `if` statement or a loop, or just to store in a variable, booleans are the defining component of digital computers.
 
