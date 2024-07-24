@@ -11,5 +11,6 @@ layout: post
 {% assign categories_filtered = site.blog_categories | where: "short_name", page.category %}
 
 <p>This post is from the <a href="{{ categories_filtered[0].url }}">{{ categories_filtered[0].name }}</a> category.</p>
+<p>Want to subscribe to any sections of this blog? <a href="/subscribe.html">Use the subscribe form here!</a></p>
 
 {{ content }}
