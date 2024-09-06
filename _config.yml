@@ -19,12 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SCP-iota
+tagline: "My archive of geekdom and hillarity"
 email: SCP-iota@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Open-sorcerer, trans girl, memetic hazard
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scp-iota.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  SCP-iota
+github_username: SCP-iota
+logo: /assets/images/sprigatito.png
 
 dash:
   social_links:

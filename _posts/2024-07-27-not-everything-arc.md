@@ -2,6 +2,7 @@
 layout: blog_post
 category: software
 title: Not everything in Rust has to be an `Arc`
+description: "Learn to write more idiomatic Rust and avoid fighting the borrow checker as someone coming from a high-level language"
 ---
 
 A common phenomenon among new Rust programmers is called "fighting the borrow checker": getting confused by lifetime and move restrictions and working against the compiler instead of with it. People learning Rust after already being familiar with other languages may not be sure how to deal with those compile-time checks, but others will try to systematically work around it...

@@ -2,6 +2,7 @@
 layout: blog_post
 category: queer_stuff
 title: What is transfeminine culture?
+description: "Why do trans women and transfeminine non-binary people have things in common that you wouldn't expect?"
 ---
 
 ![An edited Mountain Dew Baja Blast logo with the Celeste game's mountain icon as the background and a Blåhaj image, saying "Mountain Dew Blåhaj Blast"](/assets/images/memes/blog/mtn-dew-blahaj-blast.png)

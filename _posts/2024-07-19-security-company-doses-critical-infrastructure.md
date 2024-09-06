@@ -2,6 +2,7 @@
 layout: blog_post
 category: satire
 title: Security Company DOSes Critical Infrastructure
+description: "Satire: CrowdStrike, a company that provides cybersecurity to its customers, just took down critical infrastructure"
 ---
 
 ![Pizza delivery to house on fire meme](/assets/images/memes/blog/pizza-fire.jpg)

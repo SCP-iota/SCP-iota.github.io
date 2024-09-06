@@ -2,6 +2,7 @@
 layout: blog_post
 category: satire
 title: Man denies existence of dead people, tells them to "Get a life"
+description: "Satire: Some people will deny anything, even the possibility of death, and then judge others"
 ---
 
 You've heard of climate change deniers, gravity deniers, and Australia deniers, but we have just interviewed one man who denies the existence of death:

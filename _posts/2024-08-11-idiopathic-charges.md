@@ -2,6 +2,7 @@
 layout: blog_post
 category: satire
 title: Florida man convicted of "idiopathic charges"
+description: "Satire: Taking a page from doctors' handbook, the prosecution for a Florida crime think they don't need rule of law to convict someone"
 ---
 
 A 23-year-old man was arrested after an incident in Miami, Florida, followed by a trial that would set an entirely new type of legal precedent. Struggling to figure out how to classify the alleged crime, prosecutors looked to the words of doctors for advice:

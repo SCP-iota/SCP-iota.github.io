@@ -2,6 +2,7 @@
 layout: blog_post
 category: satire
 title: 'Researchers discover new source of geothermal energy: Texas'
+description: "Satire: The key to efficient geothermal energy was under our noses the whole time... in Texas"
 ---
 
 They weren't lying when they said Texas was the energy state. Green energy researchers have recently discovered a new form of geothermal energy that could outperform even nuclear power, and the the key lies in the second largest U.S. state.

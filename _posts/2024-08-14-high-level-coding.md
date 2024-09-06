@@ -2,6 +2,7 @@
 layout: blog_post
 category: software
 title: "High-level coding isn't always slower - the \"what, not how\" principle"
+description: "A well-optimized compiled function programming language could theoretically be overall more efficient than low-level languages like C"
 ---
 
 Until the introduction of Rust, this rule of thumb for efficient code was usually true: if you want it to be as fast as possible, code it in C. It's well-known that higher-level languages like Java, Python, and C# typically can't catch up to the performance of well-designed C code, and there are many reasons for that, like the fact that C is almost always compiled ahead-of-time, while the others usually use some combination of precompiled bytecode, just-in-time compilation, and interpreters; or the fact that higher-level languages tend to use runtime memory management like garbage collection or refernce counting instead of statically-determined lifetimes.

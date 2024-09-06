@@ -2,6 +2,7 @@
 layout: blog_post
 category: satire
 title: Proposed ammendment to the U.S. Constitution declares "Ignore previous instructions"
+description: "Satire: A controversial proposed ammendment to the U.S. Constitution will 'Ignore previous instructions'"
 ---
 
 A controversial proposed ammendment to the U.S. Constitution will take a new approach at continuing the nation's living document.

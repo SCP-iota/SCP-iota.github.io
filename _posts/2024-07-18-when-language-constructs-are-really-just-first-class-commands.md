@@ -2,6 +2,7 @@
 layout: blog_post
 category: software
 title: When Language Constructs Are Really Just First Class Commands
+description: "See how Bash shell scripting implements if statements in a non-traditional way"
 ---
 
 In just about every programming language, there will be times you'll need to evaluate a boolean expression.

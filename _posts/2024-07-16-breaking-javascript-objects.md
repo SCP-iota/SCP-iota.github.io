@@ -2,6 +2,7 @@
 layout: blog_post
 category: software
 title: Breaking JavaScript Objects
+desciption: "How an oddity of JavaScript's prototypal inheritance allows a bizarre vulnerability"
 ---
 
 Remember SQL injection? While the days of extracting password hashes with carefully crafted usernames might be ([mostly](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-48788)) over, there are still some clever exploits that use trojan strings to cause unintended effects, and sometimes even the simplest of code can be vulnerable. If you ever thought your JavaScript code that uses objects is dictionaries is secure, think again.

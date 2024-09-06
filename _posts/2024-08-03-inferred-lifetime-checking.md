@@ -2,6 +2,7 @@
 layout: blog_post
 category: software
 title: "Inferred Lifetime Management: Could we skip the garbage collector *and* the verbosity?"
+description: "My ideas for a memory management strategy that combines efficiency, safety, and simplicity"
 ---
 
 I like Rust; it's possibly my favorite programming language. (It's not a cult I swear!) One thing I *really* like about Rust is its no-cost memory management. Most modern languages, like C#, Python, JavaScript, Swift, etc. implement memory management at runtime using methods like garbage collection or reference counting, but those methods come at a cost to performance. Lower-level languages like C and C++ leave memory management largely to the programmer, inevitably leading to crashes, bugs, and security vulnerabilities. Rust, however, prefers to implement memory safety at *compile-time*, giving us the closest possible solution to the best of both worlds. It has a caveat, though...
