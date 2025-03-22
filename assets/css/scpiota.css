@@ -1,3 +1,7 @@
+h1 {
+    margin: 1rem 0;
+}
+
 .no-decoration {
     text-decoration: none !important;
 }
@@ -13,7 +17,6 @@
     padding: 0.5rem;
     border-radius: 0.5rem;
 }
-
 
 .wide-chip.selectable:hover {
     background-color: rgba(0, 64, 128, 0.4);

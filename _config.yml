@@ -41,6 +41,8 @@ dash:
 collections:
   blog_categories:
     output: true
+  fiction:
+    output: true
 
 defaults:
   - scope:
@@ -48,6 +50,11 @@ defaults:
       type: "blog_categories"
     values:
       layout: "blog_category"
+  - scope:
+      path: ""
+      type: "fiction"
+    values:
+      layout: "fiction"
 
 # Build settings
 theme: jekyll-dash
