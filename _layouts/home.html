@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% unless site.dash.show_author == false %}
+  {% include author.html %}
+{% endunless %}
+{{ content }}
+
+<br />
+
+<h1>Blog Sections</h1>
+
+{% for blog_category in site.blog_categories %}
+  <li class="no-list-item">
+    <a class="wide-chip no-decoration selectable" href="{{ blog_category.url }}">{{ blog_category.name }}</a>
+  </li>
+{% endfor %}

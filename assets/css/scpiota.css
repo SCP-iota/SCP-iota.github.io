@@ -1,0 +1,20 @@
+.no-decoration {
+    text-decoration: none !important;
+}
+
+.no-list-item {
+    list-style-type: none;
+}
+
+.wide-chip {
+    display: block;
+    background-color: rgba(0, 64, 128, 0.2);
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+
+.wide-chip.selectable:hover {
+    background-color: rgba(0, 64, 128, 0.4);
+}
