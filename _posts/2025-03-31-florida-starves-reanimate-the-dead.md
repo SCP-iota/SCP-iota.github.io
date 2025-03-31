@@ -2,7 +2,7 @@
 layout: blog_post
 category: satire
 title: After Half the Florida Population Starves to Death, Governor DeSantis Suggests Reanimating the Dead as Workers
-description: 'Satire: Mass starvation has many consequences, and for the state of Florida, apparently on of the most important is the reduced workforce - but that can be solved with a little necromancy'
+description: 'Satire: Mass starvation has many consequences, and for the state of Florida, apparently one of the most important is the reduced workforce - but that can be solved with a little necromancy'
 ---
 
 Since the mass starvation caused by Florida's ban on eating grain products that caused the state's population to be nearly halved, numerous restabilization programs have been implemented in a desperate attempt to curb the damage. Most recently, Governor DeSantis made a statement yesterday mentioning a possible new program to replace the lost workforce.
