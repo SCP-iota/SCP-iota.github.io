@@ -21,3 +21,11 @@ h1 {
 .wide-chip.selectable:hover {
     background-color: rgba(0, 64, 128, 0.4);
 }
+
+.indented {
+    text-indent: 1rem;
+}
+
+#description {
+    font-size: 0.8rem;
+}
