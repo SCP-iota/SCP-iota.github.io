@@ -2,7 +2,7 @@
 layout: blog_post
 category: satire
 title: 'Google brags to other companies about their permanent rainbow logo this Pride Month'
-description: Most companies only have rainbow logos in June. Google, however, has had a rainbow logo year-round, and their not above gloating.
+description: Most companies only have rainbow logos in June. Google, however, has had a rainbow logo year-round, and they're not above gloating.
 ---
 
 Each June, numerous companies temporarily change their logo to a rainbow-colored variant for Pride Month. One major exception to this seasonal change is Google; rather than deal with the hassle of annual temporary rebrands, this company has kept their chromatic logo year-round for ages. This year, they've decided to rub it in other big tech companies' faces.
