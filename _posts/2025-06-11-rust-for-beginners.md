@@ -32,7 +32,7 @@ print(f'new age: {ada.age}')
 
 Kevin has just figured out that objects in Python are passed by reference - when he changes a property of an object that came from a parameter, it changes the same object that was created by the caller. This can be just as much of a pitfall as a feature for a beginner:
 
-```
+```python
 olympics_2010_ice_dancing_placed_nations = ['United States', 'Russia', 'Canada']
 olympics_2010_ice_dancing_nation_points = [215.74, 207.64, 221.57]
 
