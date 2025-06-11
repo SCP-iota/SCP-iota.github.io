@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-category: satire
+category: software
 title: Rust Could be a Good Beginner Language
 description: "It's often assumed that Rust's low-level nature and fundamental differences from common languages make it unsuitable for beginners, but I suggest that Rust's apparent difficulty is instead caused by our familiarity with other languages."
 ---
